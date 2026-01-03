@@ -5,7 +5,7 @@ Creality K1 Series CFS Nozzle Wiper Upgrade
 
 🛠 Installation
 1. SSH into your machine or access via Fluidd/Mainsail
-2. Download cfs_nozzle_clear.cfg from this repository and upload to your printer's config directory
+2. Download cfs_nozzle_clear.cfg from this repository and upload to your printer's config directory (/usr/data/printer_data/config/)
 3. Add this line to your `printer.cfg` if not already present:
    ```
    [include cfs_nozzle_clear.cfg]
