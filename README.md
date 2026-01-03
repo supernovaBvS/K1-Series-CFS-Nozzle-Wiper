@@ -16,7 +16,7 @@ Creality K1 Series CFS Nozzle Wiper Upgrade
 You can customize the wipe behavior directly in the macro or by passing parameters:
 - WIPES: Number of back-and-forth passes (Default: 8).
 - WIDTH: The total horizontal sweep distance in mm (Default: 13).
-- CENTRE_X: If your nozzle isn't hitting the centre of the rubber, adjust this value in the .cfg file (Default: 169.0 for K1C).
+- CENTRE_X: If your nozzle isn't hitting the centre of the rubber, adjust this value in the .cfg file (Default: 167.0 for K1C).
 - CENTRE_Y: If your nozzle isn't hitting the centre of the rubber, adjust this value in the .cfg file (Default: 226.0 for K1C).
 
 ⚠️ Warning for K1 Max Users
