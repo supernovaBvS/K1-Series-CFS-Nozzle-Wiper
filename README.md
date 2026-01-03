@@ -2,6 +2,10 @@
 Creality K1 Series CFS Nozzle Wiper Upgrade 
 
 >This macro replaces the stock Creality Print nozzle wiping routine with a more precise, variable-width scrubbing motion designed specifically for the CFS Purge Chute system.
+## IMPORTANT
+1. You're doing this willingly
+2. I am not responsible if you damage your printer or whatever worse may come of it
+3. This is required to root the machine and totally reversible. 
 
 ## 🛠 Installation
 1. SSH into your machine or access via Fluidd/Mainsail
