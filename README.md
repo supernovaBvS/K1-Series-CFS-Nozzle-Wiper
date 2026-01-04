@@ -11,6 +11,8 @@ Creality K1 Series CFS Nozzle Wiper Upgrade
 
 This is a footage of utilizing the purge chute nozzle wiper for my K1C while using Creality Print. https://www.youtube.com/shorts/c9hV-eFskMg
 
+Im also working on getting creality print to do KAMP as default, please let me know if you guys are interested!
+
 ## 🛠 Installation
 1. SSH into your machine or access via Fluidd/Mainsail
 2. Download cfs_nozzle_clear.cfg from this repository and upload to your printer's config directory (/usr/data/printer_data/config/)
