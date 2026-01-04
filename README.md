@@ -5,7 +5,11 @@ Creality K1 Series CFS Nozzle Wiper Upgrade
 ## IMPORTANT
 1. You're doing this willingly
 2. I am not responsible if you damage your printer or whatever worse may come of it
-3. This is required to root the machine and totally reversible. 
+3. This is required to root the machine and totally reversible.
+
+## Update
+
+This is a footage of utilizing the purge chute nozzle wiper for my K1C while using Creality Print. https://www.youtube.com/shorts/c9hV-eFskMg
 
 ## 🛠 Installation
 1. SSH into your machine or access via Fluidd/Mainsail
